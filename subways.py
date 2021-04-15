@@ -1,6 +1,6 @@
 import csv
 
-f=open("D:/kjh/0415/Transportation card statistics.csv")
+f=open("path/Transportation card statistics.csv")
 main_data = csv.reader(f)
 
 subways=[]
